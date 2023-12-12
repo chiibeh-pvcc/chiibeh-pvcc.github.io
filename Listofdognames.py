@@ -55,6 +55,7 @@ def main():
     print(dogs)
 
 main()
+input('Press ENTER to exit')
 
 
 
