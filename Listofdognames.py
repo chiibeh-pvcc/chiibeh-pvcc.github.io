@@ -51,12 +51,10 @@ def main():
 
     print("\nUse a For loop to give each dog in the list same last name:")
     for i in range(len(dogs)):
-        dogs[i] = dogs[i] + " Kingsley-Ibeh" #Change Stevens to YOUR last name (added my Cat's name Beef Wellington)
+        dogs[i] = dogs[i] + " Kingsley-Ibeh" #Change Stevens to YOUR last name added my Cat's name Beef Wellington
     print(dogs)
 
 main()
-
-
 
 
 
