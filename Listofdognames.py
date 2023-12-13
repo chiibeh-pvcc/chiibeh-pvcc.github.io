@@ -54,6 +54,9 @@ def main():
         dogs[i] = dogs[i] + " Kingsley-Ibeh" #Change Stevens to YOUR last name added my Cat's name Beef Wellington
     print(dogs)
 
+    # Wait for user input before exiting
+    input("Press Enter to exit.")
+
 main()
 
 
